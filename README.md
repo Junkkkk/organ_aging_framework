@@ -1,7 +1,3 @@
-# Code for "What organ age gaps actually measure"
-
-Analysis code for Park et al., *Nature Aging* (under review).
-
 ## Contents
 
 - `figure1.py` — calibration regression and gap definitions
